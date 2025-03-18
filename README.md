@@ -29,6 +29,10 @@ Este proyecto es una aplicación de gestión de tareas que utiliza una arquitect
 
 La solución se divide en los siguientes proyectos o carpetas:
 
+Esta elección de arquitectura permite desarrollar aplicaciones robustas, fáciles de mantener y con un alto grado de adaptabilidad a futuros cambios.
+
+Al desacoplar la lógica de negocio de la lógica de acceso a datos y de la presentación, se pueden crear pruebas unitarias y de integración de forma más sencilla. Esto mejora la calidad del código y facilita la detección temprana de errores.
+
 - **Tasks.Domain:**
   - **Entities:** Contiene la entidad `TaskItem`.
   - **Interfaces:** Define los contratos de repositorios (por ejemplo, `ITaskRepository`).
