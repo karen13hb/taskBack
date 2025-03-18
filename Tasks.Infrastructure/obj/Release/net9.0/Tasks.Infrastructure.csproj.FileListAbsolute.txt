@@ -1,0 +1,17 @@
+C:\Users\Karen\source\repos\Tasks.Infrastructure\bin\Release\net9.0\Tasks.Infrastructure.deps.json
+C:\Users\Karen\source\repos\Tasks.Infrastructure\bin\Release\net9.0\Tasks.Infrastructure.runtimeconfig.json
+C:\Users\Karen\source\repos\Tasks.Infrastructure\bin\Release\net9.0\Tasks.Infrastructure.dll
+C:\Users\Karen\source\repos\Tasks.Infrastructure\bin\Release\net9.0\Tasks.Infrastructure.pdb
+C:\Users\Karen\source\repos\Tasks.Infrastructure\bin\Release\net9.0\Tasks.Domain.dll
+C:\Users\Karen\source\repos\Tasks.Infrastructure\bin\Release\net9.0\Tasks.Domain.pdb
+C:\Users\Karen\source\repos\Tasks.Infrastructure\obj\Release\net9.0\Tasks.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Karen\source\repos\Tasks.Infrastructure\obj\Release\net9.0\Tasks.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen\source\repos\Tasks.Infrastructure\obj\Release\net9.0\Tasks.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Karen\source\repos\Tasks.Infrastructure\obj\Release\net9.0\Tasks.Infrastructure.AssemblyInfo.cs
+C:\Users\Karen\source\repos\Tasks.Infrastructure\obj\Release\net9.0\Tasks.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Karen\source\repos\Tasks.Infrastructure\obj\Release\net9.0\Tasks.In.E44DA345.Up2Date
+C:\Users\Karen\source\repos\Tasks.Infrastructure\obj\Release\net9.0\Tasks.Infrastructure.dll
+C:\Users\Karen\source\repos\Tasks.Infrastructure\obj\Release\net9.0\refint\Tasks.Infrastructure.dll
+C:\Users\Karen\source\repos\Tasks.Infrastructure\obj\Release\net9.0\Tasks.Infrastructure.pdb
+C:\Users\Karen\source\repos\Tasks.Infrastructure\obj\Release\net9.0\Tasks.Infrastructure.genruntimeconfig.cache
+C:\Users\Karen\source\repos\Tasks.Infrastructure\obj\Release\net9.0\ref\Tasks.Infrastructure.dll
